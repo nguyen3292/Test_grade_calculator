@@ -1,5 +1,7 @@
 <h3 font size =5> Tính toán và phân tích điểm thi</font></h3>
+
 Trong Asignment này sẽ làm các nhiệm vụ sau
+
 1. Task 1:
     - Đọc file
     - Kiểm tra đường dẫn và thông báo khi có lỗi (sử dụng Try - Exception)
